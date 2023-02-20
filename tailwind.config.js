@@ -10,7 +10,7 @@ module.exports = {
 		},
 		extend: {
 			fontFamily: {
-				roboto: "'Roboto', sans-serif",
+				shantell: "'Shantell Sans', cursive",
 			},
 			colors: {
 				primary: '#76C601',
